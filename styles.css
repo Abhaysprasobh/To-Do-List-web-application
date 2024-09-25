@@ -182,4 +182,7 @@ ul li span:hover{
     button{
         padding: 10px 30px;
     }
+    .todo-app{
+        width: 85%;
+    }
 }
