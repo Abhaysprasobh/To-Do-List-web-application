@@ -172,3 +172,17 @@ ul li span:hover{
     background-color: #edeef0;
 }
 
+@media (max-width: 576px) {
+    .row {
+        flex-direction: column;
+    }
+
+    button {
+        width: 100%;
+        margin-top: 10px;
+    }
+
+    input {
+        padding: 15px;
+    }
+}
