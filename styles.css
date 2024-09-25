@@ -176,15 +176,20 @@ ul li span:hover{
     .row {
         flex-direction: column;
     }
-    input{
-        margin-top: 2vh;
-        border-radius: 2px;
-        background: linear-gradient(135deg,rgba(255, 255, 255, 0.203),rgba(0, 0, 0, 0.162));
-    }
     button{
         padding: 10px 30px;
     }
     .todo-app{
         width: 85%;
+    }
+    ul li{
+        font-size: 14px;
+    }
+    ul li::before{
+        height: 24px;
+        width: 24px;
+    }
+    ul li span{
+        font-size: 18px;
     }
 }
