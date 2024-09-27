@@ -77,7 +77,7 @@ You can check out the live demo of this project here:
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/your-username/todo-app/issues) if you'd like to contribute.
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/Abhaysprasobh/To-Do-List-web-application/issues) if you'd like to contribute.
 
 ## 📝 License
 
