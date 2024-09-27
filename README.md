@@ -1,6 +1,3 @@
-Here’s a professional and detailed README file for your GitHub repository to showcase your To-Do List app project.
-
----
 
 # 📝 To-Do List App
 
@@ -69,7 +66,7 @@ The UI has been designed with simplicity and functionality in mind. The app uses
 
 You can check out the live demo of this project here:
 
-[Live Demo](https://your-live-demo-link.com)
+[Live Demo](https://abhaysprasobh.github.io/To-Do-List-web-application/)
 
 ## ✨ Future Enhancements
 
@@ -90,10 +87,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Feel free to reach out if you have any questions or suggestions!
 
-- **Author:** Your Name
-- **Email:** your-email@example.com
+- **Author:** Abhay S Prasobh
 - **GitHub:** [your-github-profile](https://github.com/your-username)
-
----
-
-Feel free to modify the information (like live demo, contact details) with your actual project details before publishing!
