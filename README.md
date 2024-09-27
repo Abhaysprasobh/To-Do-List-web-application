@@ -22,10 +22,10 @@ A simple, elegant, and fully responsive To-Do List application to manage your da
 ## 📸 Screenshots
 
 ### Desktop View:
-![Desktop View](images/desktop-screenshot.png)
+(images/desktop-screenshot.png)
 
 ### Mobile View:
-![Mobile View]<img src="images/mobile-screenshot.jpg" alt="Mobile View" width="250px">
+<img src="images/mobile-screenshot.jpg" alt="Mobile View" width="250px">
 
 ## 🛠 Installation and Setup Instructions
 
