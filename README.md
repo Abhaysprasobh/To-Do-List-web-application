@@ -25,14 +25,14 @@ A simple, elegant, and fully responsive To-Do List application to manage your da
 ![Desktop View](images/desktop-screenshot.png)
 
 ### Mobile View:
-![Mobile View](images/mobile-screenshot.png)
+![Mobile View](images/mobile-screenshot.jpg)
 
 ## 🛠 Installation and Setup Instructions
 
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/todo-app.git
+    git clone (https://github.com/Abhaysprasobh/To-Do-List-web-application.git)
     ```
 
 2. **Navigate into the project directory:**
@@ -88,4 +88,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Feel free to reach out if you have any questions or suggestions!
 
 - **Author:** Abhay S Prasobh
-- **GitHub:** [your-github-profile](https://github.com/your-username)
+- **GitHub:** [your-github-profile](https://github.com/Abhaysprasobh/To-Do-List-web-application.git)
