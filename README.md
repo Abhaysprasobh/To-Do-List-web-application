@@ -25,7 +25,7 @@ A simple, elegant, and fully responsive To-Do List application to manage your da
 ![Desktop View](images/desktop-screenshot.png)
 
 ### Mobile View:
-![Mobile View]<img src="images/mobile-screenshot.png" alt="Mobile View" width="250px">
+![Mobile View]<img src="images/mobile-screenshot.jpg" alt="Mobile View" width="250px">
 
 ## 🛠 Installation and Setup Instructions
 
