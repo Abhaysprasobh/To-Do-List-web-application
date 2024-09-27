@@ -88,4 +88,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Feel free to reach out if you have any questions or suggestions!
 
 - **Author:** Abhay S Prasobh
-- **GitHub:** [your-github-profile](https://github.com/Abhaysprasobh/To-Do-List-web-application.git)
+- **GitHub:** [your-github-profile][(https://github.com/Abhaysprasobh/To-Do-List-web-application.git)](https://github.com/Abhaysprasobh)
